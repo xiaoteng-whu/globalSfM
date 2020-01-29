@@ -1,0 +1,6 @@
+### papers related to my latest research
+##(1）base: multi-view; math(probability, linear algoria, graph, optimization); tools(matlab,cmake,c++)
+##(2) sfm.overview: sfm, different pipelines; applications
+##(3) RO.generate: feature and matching; five-point method with RANSAC
+##(4) RO.global: view-graph; outlier detection; noise optimize; motion averaging; evaluation
+##(5) BA
